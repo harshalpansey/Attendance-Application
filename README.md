@@ -1,2 +1,3 @@
-# Attendance-Application
-A C# Based Attendance application For Admin and User
+# Sales Management System 
+A ASP.NET & C# Based Sales Management application 
+Manager Login, Sales Login For logins
